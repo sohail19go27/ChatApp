@@ -1,2 +1,2 @@
 # ChatApp:
-This helps user ask there query and chat with that AI Application.
+This helps user ask there query and chat with that AI Application. Uses AI to detect mistakes and helps chatting interesting.
